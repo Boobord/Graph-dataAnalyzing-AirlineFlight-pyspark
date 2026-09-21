@@ -38,9 +38,6 @@ Files are numbered in the order they should be run.
 Many parts of the original code were deprecated, so I modified and
 patched them to work on Neo4j 4.2.2.
 
-[Optional: list 2-3 concrete changes you actually made, e.g. which
-procedure calls or syntax you replaced.]
-
 ## Credits
 
 The examples and datasets originate from the book above. This repository
